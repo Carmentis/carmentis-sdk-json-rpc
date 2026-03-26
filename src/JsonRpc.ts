@@ -11,6 +11,10 @@ import type {
   ParseResult,
 } from "./types";
 
+/**
+ * A utility class for handling JSON-RPC 2.0 requests, responses, and errors. Provides methods to create and validate
+ * JSON-RPC entities, parse incoming payloads, and classify JSON-RPC messages.
+ */
 export class JsonRpc {
   private constructor() {}
 
