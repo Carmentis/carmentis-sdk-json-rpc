@@ -2,6 +2,7 @@
   "name": "@cmts-dev/carmentis-sdk-json-rpc",
   "version": "1.0.0",
   "licence": "Apache 2.0",
+  "private": false,
   "description": "SDK for parsing and building JSON-RPC 2.0 messages",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
